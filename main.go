@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/Asbjornhh/rivercrossing/event"
+	"github.com/Asbjornhh/rivercrossing/state"
 )
 
 func main() {
