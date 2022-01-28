@@ -8,7 +8,7 @@ import (
 
 func main() {
 	fmt.Println(state.ViewState())
-	fmt.Println(event.PutIn("Kylling"))
-	fmt.Println(event.CrossRiver("Kylling"))
-	fmt.Println(event.TakeOut("Kylling"))
+	fmt.Println(event.PutIn())
+	fmt.Println(event.CrossRiver())
+	fmt.Println(event.TakeOut())
 }

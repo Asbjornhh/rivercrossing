@@ -1,13 +1,13 @@
 package event
 
-func PutIn(item string) string {
+func PutIn() string {
 	return "[ Rev Korn ---V \\ \\_HS+Kylling_/ _____________/ Ø---]"
 }
 
-func CrossRiver(item string) string {
+func CrossRiver() string {
 	return "[ Rev Korn ---V \\ _____________\\_HS+Kylling_/ / Ø---]"
 }
 
-func TakeOut(item string) string {
+func TakeOut() string {
 	return "[ Rev Korn ---V \\ _____________\\_HS_/ / Ø--- Kylling]"
 }
